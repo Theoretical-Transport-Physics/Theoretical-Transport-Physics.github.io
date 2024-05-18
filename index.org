@@ -1,0 +1,38 @@
+#+TITLE: Theoretical Transport Physics
+#+AUTHOR: Nakib Haider Protik
+#+EMAIL: nakib.haider.protik@gmail.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="thirdparty/worg.css"/>
+#+HTML_HEAD: <link rel="icon" type="image/ico" href="logo/group-logo_simplest.svg"/>
+#+OPTIONS: H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc html-postamble:nil
+
+* About us
+We are an Emmy Noether research group based in the [[https://www.physik.hu-berlin.de/en/standardseite][Department of Physics]] of [[https://www.hu-berlin.de/en][Humboldt-Universität zu Berlin]]. We carry out theoretical+computational research to understand the thermal and charge transport properties of materials. We focus specifically on the self-consistent transport of phonons and electrons -- the so-called drag phenomenon.
+
+
+* People
+** Principal Investigator
+
+*** Dr. Nakib H. Protik
+Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then he has been a Postdoctoral Fellow at Harvard University (USA), Postdoctoral Researcher at ICN2 (Spain), and an Alexander von Humboldt Postdoctoral Research Fellow at Humboldt-Universität (Germany) before establishing this Emmy Noether group in 2024.
+
+** Postdoctoral Researcher
+TBA
+
+** PhD
+TBA
+
+** Opening
+TBA
+
+* Research Software
+** ~elphbolt~
+This is a transport physics software suite for the /ab initio/ computation of both the dragful and dragless electron and phonon Boltzmann transport equations. To get started with the code, check out its [[https://github.com/nakib/elphbolt][github repository]] and read about the theory behind it in the accompanying technical paper in [[https://www.nature.com/articles/s41524-022-00710-0.pdf][npj Computational Materials]].
+
+
+* Teaching
+** Introduction to Transport Theory
+TBA
+
+
+* Funding
+This group is funded by the [[https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether][Emmy Noether Program]] of the German Research Foundation ([[https://www.dfg.de/en][DFG)]].
