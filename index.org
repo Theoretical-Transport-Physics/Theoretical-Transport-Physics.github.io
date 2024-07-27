@@ -1,4 +1,4 @@
-#+TITLE: Theoretical Transport Physics
+#+TITLE:  @@html:<img src="file:logo/banner.svg" alt="" / width="500px">@@
 #+AUTHOR: Nakib Haider Protik
 #+EMAIL: nakib.haider.protik@gmail.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="thirdparty/worg.css"/>
