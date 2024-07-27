@@ -1,9 +1,12 @@
-#+TITLE:  @@html:<img src="file:logo/banner.svg" alt="" / width="500px">@@
 #+AUTHOR: Nakib Haider Protik
 #+EMAIL: nakib.haider.protik@gmail.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="thirdparty/worg.css"/>
 #+HTML_HEAD: <link rel="icon" type="image/ico" href="logo/group-logo_simplest.svg"/>
 #+OPTIONS: H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc html-postamble:nil
+
+#+ATTR_HTML: :style float:none;
+[[./logo/banner.svg]]
+
 
 * About us
 We are an Emmy Noether research group based in the [[https://www.physik.hu-berlin.de/en/standardseite][Department of Physics]] of [[https://www.hu-berlin.de/en][Humboldt-Universität zu Berlin]]. We carry out theoretical+computational research to understand the thermal and charge transport properties of materials. We focus specifically on the self-consistent transport of phonons and electrons -- the so-called drag phenomenon.
