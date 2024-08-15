@@ -78,6 +78,7 @@
     }
 
     /* TOC inspired by http://jashkenas.github.com/coffee-script */
+    /*
     #table-of-contents {
 	z-index: 1;
 	margin-top: 105px;
@@ -113,6 +114,7 @@
 	display: block;
 	padding: 0.5em;
 	margin-top: -1.5em; }
+	*/
 
     #license {
       background-color: #eeeeee;
