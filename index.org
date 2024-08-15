@@ -1,5 +1,6 @@
 #+AUTHOR: Nakib Haider Protik
 #+EMAIL: nakib.haider.protik@gmail.com
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="thirdparty/worg.css"/>
 #+HTML_HEAD: <link rel="icon" type="image/ico" href="logo/group-logo_simplest.svg"/>
 #+OPTIONS: H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc html-postamble:nil
