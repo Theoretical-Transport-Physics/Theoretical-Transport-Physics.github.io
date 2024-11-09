@@ -23,7 +23,7 @@ We are an Emmy Noether research group based in the [[https://www.physik.hu-berli
 Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then he has been a Postdoctoral Fellow at Harvard University (USA), Postdoctoral Researcher at ICN2 (Spain), and an Alexander von Humboldt Postdoctoral Research Fellow at Humboldt-Universität (Germany) before establishing this group in 2024. His primary focus is on the physics of the interactions and transport phenomena in condensed matter, which he studies using /ab initio/ methods. [[file:./docs/nprotik-cv.pdf][CV]].
 
 ** Postdoctoral Researcher
-Vacant
+We have a vacant position at the moment. Job add [[https://euraxess.ec.europa.eu/jobs/286940][here]]. Application deadline: 27 Nov 2024 - 23:59 (Europe/Berlin).
 
 ** PhD
 *** Dwaipayan Paul
