@@ -28,7 +28,7 @@ Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then 
 [[./img/Sally_pic.jpg]]
 
 
-Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using ab initio atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Currently, she is a Postdoctoral Researcher at Humboldt-Universität zu Berlin. Her research expertise spans material science, computational physics and simulation techniques using /ab initio/ methods.
+Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using /ab initio/ atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Currently, she is a Postdoctoral Researcher at Humboldt-Universität zu Berlin. Her research expertise spans material science and computational physics.
 
 ** PhD
 *** Dwaipayan Paul
@@ -36,13 +36,15 @@ Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorb
 [[./img/Dwaipayan-pic.jpeg]]
 
 
-Dwaipayan completed his Integrated Master's in Physics from the National Institute of Science Education and Research (NISER), India. His research interests include development and application of molecular modeling techniques, with a goal of designing sustainable next-generation devices. Over the past two years, he has been involved in transport physics research in carbon nanotube heterojunction systems. Outside of academia, he enjoys singing and jamming during his free time.
+Dwaipayan completed his Integrated Master's in Physics from the National Institute of Science Education and Research (NISER), India. His research interests include development and application of molecular modeling techniques, with a goal of designing sustainable next-generation devices. In the past, he carried out transport physics research in carbon nanotube heterojunction systems. At present, his work is focused on methods development related to the coupled electron-phonon Boltzmann transport equations. Outside of academia, he enjoys singing and jamming during his free time.
 
 ** Bachelor
 
 *** William Wenig
 #+ATTR_HTML: :style :width 200px;
 [[./img/William-pic.jpg]]
+
+William is working on efficient computation of phonon properties.
 
 ** Opening
 We are looking to host a highly qualified person through the prestigious [[https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship][Alexander von Humboldt Postdoctoral Research Fellowship]] program. Interested people are encouraged to get in touch with a CV and statement of research purpose at nakib [dot] protik [at] physik.hu-berlin.de.
@@ -58,6 +60,9 @@ This is a transport physics software suite for the /ab initio/ computation of bo
 Course info [[https://vlvz2.physik.hu-berlin.de/ss2025/physik/kvlinfo/en/?lvnummer=4020250048][here]].
 
 * Funding
+#+ATTR_HTML: :style :width 300px;
+[[./img/logo-emmy-noether.jpg]]
+
 This group is funded by the [[https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether][Emmy Noether Program]] of the German Research Foundation ([[https://www.dfg.de/en][DFG)]].
 
 * Acknowledgment
