@@ -39,8 +39,10 @@ Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorb
 Dwaipayan completed his Integrated Master's in Physics from the National Institute of Science Education and Research (NISER), India. His research interests include development and application of molecular modeling techniques, with a goal of designing sustainable next-generation devices. In the past, he carried out transport physics research in carbon nanotube heterojunction systems. At present, his work is focused on methods development related to the coupled electron-phonon Boltzmann transport equations. Outside of academia, he enjoys singing and jamming during his free time.
 
 *** Elena Trukhan
+#+ATTR_HTML: :style :width 200px;
+[[./img/Elena_Trukhan_2025_cropped.jpg]]
 
-[stay tuned...]
+Elena Trukhan earned her bachelor’s degree from the Physical Faculty of Moscow State University, where her research work was focused on deriving a formula for measuring the temperature of a magneto-optical trap. Her bachelor’s thesis investigated the amplification of electromagnetic fields scattered by homogeneous spherical nanoparticles, analyzing metallic and dielectric substances separately. She later obtained her master’s degree from the Materials Science Department at the Skolkovo Institute of Science and Technology (Skoltech). Her thesis research, conducted in the Materials Discovery Laboratory, focused on applying reinforcement learning with graph convolutional neural networks to accelerate structural relaxation in computational materials science. Currently, she is working on theory and methods development related to the coupled electron-phonon transport. Beyond research, she enjoys literature and theater.
 
 ** Bachelor
 
