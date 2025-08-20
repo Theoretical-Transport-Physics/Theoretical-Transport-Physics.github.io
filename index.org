@@ -17,8 +17,7 @@ We are an Emmy Noether research group based in the [[https://www.physik.hu-berli
 
 *** Dr. Nakib H. Protik
 #+ATTR_HTML: :style :width 200px;
-[[./img/mugshot.jpg
-]]
+[[./img/mugshot.jpg]]
 
 Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then he has been a Postdoctoral Fellow at Harvard University (USA), Postdoctoral Researcher at ICN2 (Spain), and an Alexander von Humboldt Postdoctoral Research Fellow at Humboldt-Universität (Germany) before establishing this group in 2024. His primary focus is on the physics of the interactions and transport phenomena in condensed matter, which he studies using /ab initio/ methods. [[file:./docs/nprotik-cv.pdf][CV]].
 
@@ -27,7 +26,6 @@ Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then 
 #+ATTR_HTML: :style :width 200px;
 [[./img/Sally_pic.jpg]]
 
-
 Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using /ab initio/ atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Currently, she is a Postdoctoral Researcher at Humboldt-Universität zu Berlin. Her research expertise spans material science and computational physics.
 
 ** PhD
@@ -35,16 +33,21 @@ Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorb
 #+ATTR_HTML: :style :width 200px;
 [[./img/Dwaipayan-pic.jpeg]]
 
-
 Dwaipayan completed his Integrated Master's in Physics from the National Institute of Science Education and Research (NISER), India. His research interests include development and application of molecular modeling techniques, with a goal of designing sustainable next-generation devices. In the past, he carried out transport physics research in carbon nanotube heterojunction systems. At present, his work is focused on methods development related to the coupled electron-phonon Boltzmann transport equations. Outside of academia, he enjoys singing and jamming during his free time.
 
 *** Elena Trukhan
 #+ATTR_HTML: :style :width 200px;
 [[./img/Elena_Trukhan_2025_cropped.jpg]]
 
-Elena Trukhan earned her bachelor’s degree from the Physical Faculty of Moscow State University, where her research work was focused on deriving a formula for measuring the temperature of a magneto-optical trap. Her bachelor’s thesis investigated the amplification of electromagnetic fields scattered by homogeneous spherical nanoparticles, analyzing metallic and dielectric substances separately. She later obtained her master’s degree from the Materials Science Department at the Skolkovo Institute of Science and Technology (Skoltech). Her thesis research, conducted in the Materials Discovery Laboratory, focused on applying reinforcement learning with graph convolutional neural networks to accelerate structural relaxation in computational materials science. Currently, she is working on theory and methods development related to the coupled electron-phonon transport. Beyond research, she enjoys literature and theater.
+Elena earned her bachelor’s degree from the Physical Faculty of Moscow State University, where her research work was focused on deriving a formula for measuring the temperature of a magneto-optical trap. Her bachelor’s thesis investigated the amplification of electromagnetic fields scattered by homogeneous spherical nanoparticles, analyzing metallic and dielectric substances separately. She later obtained her master’s degree from the Materials Science Department at the Skolkovo Institute of Science and Technology (Skoltech). Her thesis research, conducted in the Materials Discovery Laboratory, focused on applying reinforcement learning with graph convolutional neural networks to accelerate structural relaxation in computational materials science. Currently, she is working on theory and methods development related to the coupled electron-phonon transport. Beyond research, she enjoys literature and theater.
 
-** Bachelor
+** Master's thesis student
+#+ATTR_HTML: :style :width 200px;
+[[./img/willy_img_cropped.jpeg]]
+
+Willy studied the lightcone quantization of the bosonic string for his Bachelor thesis at Humboldt-Universität zu Berlin, where he now is a Master student. During his studies he developed machine learning and image analysis applications for the Biotoxicological group at the Helmholtz Centre for Environmental Research. In cooperation with the Bundesanstalt für Materialforschung und -prüfung (BAM) he is working on his thesis using physics-informed neural networks to predict the temperature field during laser-welding processes. In his free time he likes photography, hockey, and gaming.
+
+** Bachelor's thesis student
 
 *** William Wenig
 #+ATTR_HTML: :style :width 200px;
