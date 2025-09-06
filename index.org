@@ -11,7 +11,6 @@
 * About us
 We are an Emmy Noether research group based in the [[https://www.physik.hu-berlin.de/en/standardseite][Department of Physics]] of [[https://www.hu-berlin.de/en][Humboldt-Universität zu Berlin]]. We carry out theoretical+computational research to understand the thermal and charge transport properties of materials. Our primary focus is on the self-consistent transport of phonons and electrons -- the so-called drag phenomenon.
 
-
 * People
 ** Principal Investigator
 
@@ -69,11 +68,14 @@ This is a series of invited talks given by experts in transport physics and othe
 
 ** Past speakers
 
-*** August 16, 2024. Prof. Krzystof Kempa, Boston College, USA.
-[[https://csmb.hu-berlin.de/events/toward-room-temperature-superconductivity/][Toward room temperature superconductivity via engineered dielectric response of the environment.]]
+*** September 4, 2025. Prof. Dr. Gordon Callsen, University of Bremen, Germany.
+[[https://csmb.hu-berlin.de/events/thermal-imaging/][Thermal imaging and phonon mean-free-path spectroscopy by one- and two-laser Raman thermometry.]]
 
 *** October 11, 2024. Dr. Yu Xie, Microsoft AI4Science, Germany.
 [[https://csmb.hu-berlin.de/events/uncertainty-aware-molecular-dynamics/][Uncertainty-aware molecular dynamics from Bayesian active learning for phase transformations and thermal transport in SiC.]]
+
+*** August 16, 2024. Prof. Krzystof Kempa, Boston College, USA.
+[[https://csmb.hu-berlin.de/events/toward-room-temperature-superconductivity/][Toward room temperature superconductivity via engineered dielectric response of the environment.]]
 
 * Teaching
 ** Introduction to Transport Theory
