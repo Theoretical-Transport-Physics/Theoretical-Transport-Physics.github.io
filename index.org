@@ -41,6 +41,7 @@ Dwaipayan completed his Integrated Master's in Physics from the National Institu
 Elena earned her bachelor’s degree from the Physical Faculty of Moscow State University, where her research work was focused on deriving a formula for measuring the temperature of a magneto-optical trap. Her bachelor’s thesis investigated the amplification of electromagnetic fields scattered by homogeneous spherical nanoparticles, analyzing metallic and dielectric substances separately. She later obtained her master’s degree from the Materials Science Department at the Skolkovo Institute of Science and Technology (Skoltech). Her thesis research, conducted in the Materials Discovery Laboratory, focused on applying reinforcement learning with graph convolutional neural networks to accelerate structural relaxation in computational materials science. Currently, she is working on theory and methods development related to the coupled electron-phonon transport. Beyond research, she enjoys literature and theater.
 
 ** Master's thesis student
+*** Willy Oesterheld
 #+ATTR_HTML: :style :width 200px;
 [[./img/willy_img_cropped.jpeg]]
 
@@ -67,6 +68,12 @@ This is a transport physics software suite for the /ab initio/ computation of bo
 This is a series of invited talks given by experts in transport physics and other closely related fields.
 
 ** Past speakers
+
+*** October 9, 2025. Thomas P. van Waas, Univesite catholique de Louvain, Belgium.
+[[https://csmb.hu-berlin.de/events/van-waas/][Extraction of the self-energy and Eliashberg spectral function from angle-resolved photoemission spectroscopy.]]
+
+*** October 8, 2025. Prof. Dr. Sean Hartnoll, University of Cambridge, UK.
+[[https://csmb.hu-berlin.de/events/planckian-bounds/][Planckian bounds dissipation.]]
 
 *** September 4, 2025. Prof. Dr. Gordon Callsen, University of Bremen, Germany.
 [[https://csmb.hu-berlin.de/events/thermal-imaging/][Thermal imaging and phonon mean-free-path spectroscopy by one- and two-laser Raman thermometry.]]
