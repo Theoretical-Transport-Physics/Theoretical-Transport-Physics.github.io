@@ -25,7 +25,7 @@ Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then 
 #+ATTR_HTML: :style :width 200px;
 [[./img/Sally_pic.jpg]]
 
-Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using /ab initio/ atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Currently, she is a Postdoctoral Researcher at Humboldt-Universität zu Berlin. Her research expertise spans material science and computational physics.
+Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using /ab initio/ atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Her research expertise spans material science and computational physics.
 
 ** PhD
 *** Dwaipayan Paul
@@ -69,11 +69,11 @@ This is a series of invited talks given by experts in transport physics and othe
 
 ** Past speakers
 
-*** October 9, 2025. Thomas P. van Waas, Univesite catholique de Louvain, Belgium.
+*** October 9, 2025. Thomas P. van Waas, Universite catholique de Louvain, Belgium.
 [[https://csmb.hu-berlin.de/events/van-waas/][Extraction of the self-energy and Eliashberg spectral function from angle-resolved photoemission spectroscopy.]]
 
 *** October 8, 2025. Prof. Dr. Sean Hartnoll, University of Cambridge, UK.
-[[https://csmb.hu-berlin.de/events/planckian-bounds/][Planckian bounds dissipation.]]
+[[https://csmb.hu-berlin.de/events/planckian-bounds/][Planckian bounds on dissipation.]]
 
 *** September 4, 2025. Prof. Dr. Gordon Callsen, University of Bremen, Germany.
 [[https://csmb.hu-berlin.de/events/thermal-imaging/][Thermal imaging and phonon mean-free-path spectroscopy by one- and two-laser Raman thermometry.]]
