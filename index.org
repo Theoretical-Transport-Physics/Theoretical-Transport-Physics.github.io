@@ -53,10 +53,10 @@ Willy studied the lightcone quantization of the bosonic string for his Bachelor 
 #+ATTR_HTML: :style :width 200px;
 [[./img/William-pic.jpg]]
 
-William is working on efficient computation of phonon properties.
+William is working on efficient computation of phonon properties using the Julia language.
 
 ** Opening
-We are looking to host a highly qualified person through the prestigious [[https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship][Alexander von Humboldt Postdoctoral Research Fellowship]] program. Interested people are encouraged to get in touch with a CV and statement of research purpose at nakib [dot] protik [at] physik.hu-berlin.de.
+We do not currently have any opening through the ongoing Emmy Noether funding scheme. However, we are looking to host qualified people through the Alexander von Humboldt, Marie Skłodowska-Curie, Max Planck programs, etc. Interested people are encouraged to get in touch with a CV and statement of research purpose at nakib [dot] protik [at] physik.hu-berlin.de. Please note that our focus is theory and methods development.
 
 * Research Software
 ** ~elphbolt~
@@ -85,10 +85,11 @@ This is a series of invited talks given by experts in transport physics and othe
 [[https://csmb.hu-berlin.de/events/toward-room-temperature-superconductivity/][Toward room temperature superconductivity via engineered dielectric response of the environment.]]
 
 * Teaching
-** Introduction to Transport Theory
+** Introduction to Many-body Physics
+*** Summer 2026
+Course info [[https://vlvz2.physik.hu-berlin.de/ss2026/physik/kvlinfo/en/?lvnummer=4020260126][here]].
 *** Summer 2025
 Course info [[https://vlvz2.physik.hu-berlin.de/ss2025/physik/kvlinfo/en/?lvnummer=4020250048][here]].
-
 * Funding
 #+ATTR_HTML: :style :width 300px;
 [[./img/logo-emmy-noether.jpg]]
