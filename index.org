@@ -88,6 +88,7 @@ This is a series of invited talks given by experts in transport physics and othe
 ** Introduction to Many-body Physics
 *** Summer 2026
 Course info [[https://vlvz2.physik.hu-berlin.de/ss2026/physik/kvlinfo/en/?lvnummer=4020260126][here]].
+** Introduction to Transport Physics
 *** Summer 2025
 Course info [[https://vlvz2.physik.hu-berlin.de/ss2025/physik/kvlinfo/en/?lvnummer=4020250048][here]].
 * Funding
