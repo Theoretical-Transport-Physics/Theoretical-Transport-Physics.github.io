@@ -69,6 +69,10 @@ This is a series of invited talks given by experts in transport physics and othe
 
 ** Past speakers
 
+*** February 2, 2026. Vasilii Vasilchenko, Universite catholique de Louvain, Belgium.
+[[https://csmb.hu-berlin.de/events/vasilchenko/][Variational approach to self-trapped polarons and hopping transport]]
+
+
 *** October 9, 2025. Thomas P. van Waas, Universite catholique de Louvain, Belgium.
 [[https://csmb.hu-berlin.de/events/van-waas/][Extraction of the self-energy and Eliashberg spectral function from angle-resolved photoemission spectroscopy.]]
 
