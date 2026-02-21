@@ -7,7 +7,6 @@
 #+ATTR_HTML: :style float:none;
 [[./logo/banner.svg]]
 
-
 * About us
 We are an Emmy Noether research group based in the [[https://www.physik.hu-berlin.de/en/standardseite][Department of Physics]] of [[https://www.hu-berlin.de/en][Humboldt-Universität zu Berlin]]. We carry out theoretical+computational research to understand the thermal and charge transport properties of materials. Our primary focus is on the self-consistent transport of phonons and electrons -- the so-called drag phenomenon.
 
@@ -68,10 +67,11 @@ This is a transport physics software suite for the /ab initio/ computation of bo
 This is a series of invited talks given by experts in transport physics and other closely related fields.
 
 ** Past speakers
+*** February 19, 2026. Dr. Nina Girotto Erhardt, Universite catholique de Louvain, Belgium.
+[[https://csmb.hu-berlin.de/events/erhardt/][Nonadiabatic phonon spectra and their implications in various materials]]
 
 *** February 2, 2026. Vasilii Vasilchenko, Universite catholique de Louvain, Belgium.
 [[https://csmb.hu-berlin.de/events/vasilchenko/][Variational approach to self-trapped polarons and hopping transport]]
-
 
 *** October 9, 2025. Thomas P. van Waas, Universite catholique de Louvain, Belgium.
 [[https://csmb.hu-berlin.de/events/van-waas/][Extraction of the self-energy and Eliashberg spectral function from angle-resolved photoemission spectroscopy.]]
