@@ -46,6 +46,10 @@ Elena earned her bachelor’s degree from the Physical Faculty of Moscow State U
 
 Willy studied the lightcone quantization of the bosonic string for his Bachelor thesis at Humboldt-Universität zu Berlin, where he now is a Master student. During his studies he developed machine learning and image analysis applications for the Biotoxicological group at the Helmholtz Centre for Environmental Research. In cooperation with the Bundesanstalt für Materialforschung und -prüfung (BAM) he is working on his thesis using physics-informed neural networks to predict the temperature field during laser-welding processes. In his free time he likes photography, hockey, and gaming.
 
+*** Jakob Bufler
+
+Jakob is working on efficient computation of anharmonic phonon properties.
+
 ** Bachelor's thesis student
 
 *** William Wenig
