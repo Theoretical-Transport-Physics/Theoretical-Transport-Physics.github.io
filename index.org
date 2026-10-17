@@ -40,12 +40,16 @@ Dwaipayan completed his Integrated Master's in Physics from the National Institu
 
 Willy studied the lightcone quantization of the bosonic string for his Bachelor thesis at Humboldt-Universität zu Berlin, where he now is a Master student. During his studies he developed machine learning and image analysis applications for the Biotoxicological group at the Helmholtz Centre for Environmental Research. In cooperation with the Bundesanstalt für Materialforschung und -prüfung (BAM) he is working on his thesis using physics-informed neural networks to predict the temperature field during laser-welding processes. In his free time he likes photography, hockey, and gaming.
 
-*** Jakob Bufler
+*** William Wenig
+#+ATTR_HTML: :style :width 200px;
+[[./img/William-pic.jpg]]
 
+William has recently completed his Bachelor's thesis in this group and has started his Master's studies.
+
+*** Jakob Bufler
 Jakob is working on efficient computation of anharmonic phonon properties.
 
 ** Alumni
-**** William Wenig
 **** Elena Trukhan
 
 ** Opening
