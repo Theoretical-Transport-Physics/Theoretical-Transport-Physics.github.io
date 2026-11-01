@@ -26,20 +26,16 @@ Nakib obtained his PhD in Physics from Boston College (USA) in 2019. Since then 
 
 Sally obtained her Master's in Material Science and Nano-Object (SMNO) from Sorbonne University, France. She then completed a PhD in Condensed Matter and Nanoscience from Aix-Marseille University, France, focusing on point defects in high entropy alloys using /ab initio/ atomistic simulations. She then pursued a Postdoctoral position at Freie Universität Berlin. Her research expertise spans material science and computational physics.
 
-** PhD
+** PhD students
 *** Dwaipayan Paul
 #+ATTR_HTML: :style :width 200px;
 [[./img/Dwaipayan-pic.jpeg]]
 
 Dwaipayan completed his Integrated Master's in Physics from the National Institute of Science Education and Research (NISER), India. His research interests include development and application of molecular modeling techniques, with a goal of designing sustainable next-generation devices. In the past, he carried out transport physics research in carbon nanotube heterojunction systems. At present, his work is focused on methods development related to the coupled electron-phonon Boltzmann transport equations. Outside of academia, he enjoys singing and jamming during his free time.
 
-** Master's thesis student
-*** Willy Oesterheld
-#+ATTR_HTML: :style :width 200px;
-[[./img/willy_img_cropped.jpeg]]
+*** Paul Rost
 
-Willy studied the lightcone quantization of the bosonic string for his Bachelor thesis at Humboldt-Universität zu Berlin, where he now is a Master student. During his studies he developed machine learning and image analysis applications for the Biotoxicological group at the Helmholtz Centre for Environmental Research. In cooperation with the Bundesanstalt für Materialforschung und -prüfung (BAM) he is working on his thesis using physics-informed neural networks to predict the temperature field during laser-welding processes. In his free time he likes photography, hockey, and gaming.
-
+** Master's students
 *** William Wenig
 #+ATTR_HTML: :style :width 200px;
 [[./img/William-pic.jpg]]
@@ -50,10 +46,11 @@ William has recently completed his Bachelor's thesis in this group and has start
 Jakob is working on efficient computation of anharmonic phonon properties.
 
 ** Alumni
+**** Willy Oesterheld
 **** Elena Trukhan
 
 ** Opening
-We do not currently have any opening through the ongoing Emmy Noether funding scheme. However, we are looking to host qualified people through the Alexander von Humboldt, Marie Skłodowska-Curie, Max Planck programs, etc. Interested people are encouraged to get in touch with a CV and statement of research purpose at nakib [dot] protik [at] physik.hu-berlin.de. Please note that our focus is theory and methods development.
+We are looking to host qualified people through the Alexander von Humboldt, Marie Skłodowska-Curie, Max Planck programs, etc. Interested people are encouraged to get in touch with a CV and a human-written statement of research purpose at nakib [dot] protik [at] physik.hu-berlin.de. Please note that our focus is theory and methods development.
 
 * Research Software
 ** ~elphbolt~
